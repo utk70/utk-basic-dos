@@ -26,15 +26,6 @@ It's designed to help **new hackers, cybersecurity learners, and script kiddies*
 > Do **NOT** use this tool on any network, domain, or system you don't **own or have permission to test**.
 
 You are fully responsible for how you use this code.  
-**uTk and contributors take no responsibility for any misuse.**
+**uTk take no responsibility for any misuse.**
 
 ---
-
-##  Why uTk built this
-
-Because every beginner deserves to learn the **real stuff**, not just memes and "Top 10 Hacking Apps" videos.  
-This is raw. This is real.  
-Welcome to the code side.
-
----
-

@@ -1,7 +1,8 @@
 # utk-basic-dos
 
- Built by **uTk**  
- A basic but effective **TCP Flood DDoS tool** written in Python  
+ Built by **uTk**
+ Just to show simple code behind a tcp flodder
+ A basic **TCP Flood DDoS tool** written in Python  (Not effective at all)
  For **educational purposes only** — learn how DDoS works under the hood.
 
 ---
